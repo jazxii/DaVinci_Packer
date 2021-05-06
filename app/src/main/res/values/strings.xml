@@ -3,4 +3,7 @@
     <string name="davinci_packer">Davinci Packer</string>
     <string name="davinci_packer">Davinci Packer</string>
     <string name="new_plan">New Plan</string>
+    <string name="date">date</string>
+    <string name="time">time</string>
+    <string name="next">Next</string>
 </resources>
